@@ -70,6 +70,7 @@ int main() {
 }
 ```
 # OUTPUT
-https://private-user-images.githubusercontent.com/150931013/491530774-e8b89680-1ef8-40e5-8ec2-ff14348ffd45.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxNTYwNDEsIm5iZiI6MTc5NTE1NTc0MSwicGF0aCI6Ii8xNTA5MzEwMTMvNDkxNTMwNzc0LWU4Yjg5NjgwLTFlZjgtNDBlNS04ZWMyLWZmMTQzNDhmZmQ0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyMFQwNjIyMjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MzE2NjU2M2I4Y2M5Y2JkYWZkMjMzNjk0ZDFiNjBlOTYyZGY1MGNkNDA2NGEwZGY4ZWMwZWY0MWY0ZTlkZmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.OFsBXFAfegFM6hD_ai9uGOdILfcDEVQEDQnfoVZsr7s
+<img width="1825" height="928" alt="image" src="https://github.com/user-attachments/assets/6b6c341d-1b81-41f3-8b6f-c0c53a133b96" />
+
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
